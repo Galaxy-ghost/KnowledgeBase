@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datastructure/树/树——线索二叉树和非递归深度遍历写法.md",
+                "file": "Datastructure/树/树——树的概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1a32e77729189d0e",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datastructure/树/树——线索二叉树和非递归深度遍历写法.md",
+                "file": "Datastructure/树/树——树的概述.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,9 +104,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datastructure/树/树——线索二叉树和非递归深度遍历写法.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Datastructure/树/树——树的概述.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -126,11 +127,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datastructure/树/树——线索二叉树和非递归深度遍历写法.md"
+                "file": "Datastructure/树/树——树的概述.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,6 +141,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -147,11 +150,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "62b4e0be075a99b7",
+  "active": "5d1d23eceb2ca66c",
   "lastOpenFiles": [
-    "Datastructure/树/树——树的概述.md",
-    "Datastructure/树/树——线索二叉树和非递归深度遍历写法.md",
     "Datastructure/树/树——二叉树的性质和遍历.md",
+    "Datastructure/树/树——线索二叉树和非递归深度遍历写法.md",
+    "Datastructure/树/树——树的概述.md",
     "未命名.canvas",
     "Datastructure/栈与队列/栈与队列——栈.md",
     "Datastructure/树",
