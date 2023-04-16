@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "ddea13f729d8f891",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f0eef4fed00a724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "796830ae1b608a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datastructure/栈与队列/栈与队列——栈.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cdc2718671c0418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datastructure/树/树——树的概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62b4e0be075a99b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datastructure/树/树——二叉树的性质和遍历.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bbf306d7edc5fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datastructure/树/树——线索二叉树和非递归深度遍历写法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3fc3a355223ddc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5653ce00c657823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "160fb0d1e7b587c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "522bd463e6fe9d00",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6346a84d1480d83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a32e77729189d0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b866ffa67f51ef43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49e97d893e577d28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Datastructure/树/树——线索二叉树和非递归深度遍历写法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d1d23eceb2ca66c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Datastructure/树/树——线索二叉树和非递归深度遍历写法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d11abe6b3c7a9ee8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68a444297b14dc46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Datastructure/树/树——线索二叉树和非递归深度遍历写法.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9bbf306d7edc5fc6",
+  "lastOpenFiles": [
+    "Datastructure/树/树——二叉树的性质和遍历.md",
+    "Datastructure/树/树——线索二叉树和非递归深度遍历写法.md",
+    "Datastructure/树/树——树的概述.md",
+    "Datastructure/栈与队列/栈与队列——栈.md",
+    "Datastructure/树",
+    "Datastructure/栈与队列/栈与队列——队列.md",
+    "Datastructure/数据结构概述和线性表/链式存储表.md",
+    "未命名.canvas",
+    "Datastructure/数据结构概述和线性表/数据结构概述和线性表.md",
+    "Datastructure/栈与队列",
+    "Datastructure/数据结构概述和线性表",
+    "算法.md",
+    "Datastructure",
+    "2023-03-27.md"
+  ]
+}
