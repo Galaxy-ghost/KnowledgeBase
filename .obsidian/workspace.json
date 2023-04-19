@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datastructure/树/树——线索二叉树.md",
+                "file": "Generated/二叉搜索树和平衡树.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datastructure/树/树——线索二叉树.md",
+                "file": "Generated/二叉搜索树和平衡树.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datastructure/树/树——线索二叉树.md",
+                "file": "Generated/二叉搜索树和平衡树.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datastructure/树/树——线索二叉树.md"
+                "file": "Generated/二叉搜索树和平衡树.md"
               }
             }
           }
@@ -148,19 +148,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a55bf26ba4f198f5",
+  "active": "8b1121e2ddaad085",
   "lastOpenFiles": [
-    "Generated/images/二叉搜索树和平衡树.pdf",
+    "Datastructure/栈与队列/栈与队列——栈.md",
+    "Generated/images/二叉搜索树和平衡树_1_85.png",
+    "Generated/二叉搜索树和平衡树.md",
     "Generated/images",
     "Generated",
-    "Datastructure/树/AVL插入操作图.drawio",
+    "PDFs/二叉搜索树和平衡树.pdf",
+    "PDFs",
+    "Generated/images/二叉搜索树和平衡树_1_97.png",
+    "未命名.md",
+    "PDFs",
     "Datastructure/树/树——线索二叉树.md",
+    "Datastructure/树/AVL插入操作图.drawio",
     "Datastructure/栈与队列/Untitled Diagram.svg",
     "Datastructure/栈与队列/栈与队列——队列.md",
     "未命名.canvas",
     "Datastructure/树/树——树的概述.md",
     "Datastructure/树/树——二叉树的性质和遍历.md",
-    "Datastructure/栈与队列/栈与队列——栈.md",
     "Datastructure/树",
     "Datastructure/数据结构概述和线性表/链式存储表.md",
     "Datastructure/数据结构概述和线性表/数据结构概述和线性表.md",
