@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +167,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55ca669129e146f1",
+  "active": "029b083b7dbe8aaf",
   "lastOpenFiles": [
     "Datastructure/树/树——线索二叉树.md",
     "Datastructure/树/AVL插入操作图.drawio",
