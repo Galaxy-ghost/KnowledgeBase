@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "265c9958687383cb",
+            "id": "55ca669129e146f1",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.2.8"
+                "currentVersion": "1.3.4"
               }
             }
           }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1a32e77729189d0e",
@@ -167,7 +168,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "265c9958687383cb",
+  "active": "55ca669129e146f1",
   "lastOpenFiles": [
     "Datastructure/树/树——线索二叉树.md",
     "Datastructure/树/AVL插入操作图.drawio",
