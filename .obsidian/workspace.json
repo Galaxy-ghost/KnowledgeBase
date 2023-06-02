@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80895afd26a6ec50",
+        "id": "629b67e32020e288",
         "type": "tabs",
         "children": [
           {
-            "id": "029b083b7dbe8aaf",
+            "id": "ab52b7eb7d980fe2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Datastructure/树/树——二叉搜索树与二叉平衡树.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55ca669129e146f1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
+                "file": "Datastructure/图/关键路径讲义.pdf"
               }
             }
           }
@@ -88,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1a32e77729189d0e",
@@ -105,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datastructure/树/树——二叉搜索树与二叉平衡树.md",
+                "file": "Datastructure/图/关键路径讲义.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datastructure/树/树——二叉搜索树与二叉平衡树.md",
+                "file": "Datastructure/图/关键路径讲义.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datastructure/树/树——二叉搜索树与二叉平衡树.md"
+                "file": "Datastructure/图/关键路径讲义.pdf"
               }
             }
           }
@@ -167,32 +154,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "029b083b7dbe8aaf",
+  "active": "a55bf26ba4f198f5",
   "lastOpenFiles": [
-    "Datastructure/树/树——线索二叉树.md",
-    "Datastructure/树/AVL插入操作图.drawio",
+    "Datastructure/图/最短路径Dijkstra.pdf",
+    "Datastructure/排序与查找/13. 经典查找.pdf",
+    "Datastructure/排序与查找/归并排序、统计排序.pdf",
+    "Datastructure/排序与查找/交换排序.pdf",
+    "Datastructure/排序与查找/插入排序.pdf",
+    "Datastructure/排序与查找/排序的基本概念.pdf",
+    "Datastructure/图/拓扑排序.pdf",
+    "Datastructure/排序与查找",
+    "Datastructure/树/并查集和哈夫曼树.pdf",
+    "Datastructure/图/关键路径讲义.pdf",
+    "Datastructure/图/最小生成树.pdf",
     "Datastructure/树/树——二叉搜索树与二叉平衡树.md",
-    "Datastructure/树/树——树的概述.md",
+    "未命名.md",
     "Datastructure/树/树——二叉树的性质和遍历.md",
+    "Datastructure/树/树——线索二叉树.md",
+    "Datastructure/树/树——树的概述.md",
     "Generated/二叉搜索树和平衡树.md",
     "Datastructure/栈与队列/栈与队列——栈.md",
     "Generated/images/二叉搜索树和平衡树_1_85.png",
-    "Generated/images",
-    "Generated",
-    "PDFs/二叉搜索树和平衡树.pdf",
-    "PDFs",
     "Generated/images/二叉搜索树和平衡树_1_97.png",
-    "PDFs",
     "Datastructure/栈与队列/Untitled Diagram.svg",
     "Datastructure/栈与队列/栈与队列——队列.md",
     "未命名.canvas",
-    "Datastructure/树",
     "Datastructure/数据结构概述和线性表/链式存储表.md",
     "Datastructure/数据结构概述和线性表/数据结构概述和线性表.md",
-    "Datastructure/栈与队列",
-    "Datastructure/数据结构概述和线性表",
     "算法.md",
-    "Datastructure",
     "2023-03-27.md"
   ]
 }
