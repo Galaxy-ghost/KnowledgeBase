@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Datastructure/图/关键路径讲义.pdf"
+                "file": "Datastructure/排序与查找/经典查找.pdf"
               }
             }
           }
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1a32e77729189d0e",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datastructure/图/关键路径讲义.pdf",
+                "file": "Datastructure/排序与查找/经典查找.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datastructure/图/关键路径讲义.pdf",
+                "file": "Datastructure/排序与查找/经典查找.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datastructure/图/关键路径讲义.pdf"
+                "file": "Datastructure/排序与查找/经典查找.pdf"
               }
             }
           }
@@ -156,8 +157,9 @@
   },
   "active": "a55bf26ba4f198f5",
   "lastOpenFiles": [
+    "Datastructure/图/关键路径讲义.pdf",
     "Datastructure/图/最短路径Dijkstra.pdf",
-    "Datastructure/排序与查找/13. 经典查找.pdf",
+    "Datastructure/排序与查找/经典查找.pdf",
     "Datastructure/排序与查找/归并排序、统计排序.pdf",
     "Datastructure/排序与查找/交换排序.pdf",
     "Datastructure/排序与查找/插入排序.pdf",
@@ -165,7 +167,6 @@
     "Datastructure/图/拓扑排序.pdf",
     "Datastructure/排序与查找",
     "Datastructure/树/并查集和哈夫曼树.pdf",
-    "Datastructure/图/关键路径讲义.pdf",
     "Datastructure/图/最小生成树.pdf",
     "Datastructure/树/树——二叉搜索树与二叉平衡树.md",
     "未命名.md",
