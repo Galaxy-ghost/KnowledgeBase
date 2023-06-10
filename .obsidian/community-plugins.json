@@ -3,5 +3,7 @@
   "table-editor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-topic-linking",
-  "drawio-obsidian"
+  "drawio-obsidian",
+  "obsidian-style-settings",
+  "callout-manager"
 ]
