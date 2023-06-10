@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datastructure/树/树——二叉树的性质和遍历.md",
+                "file": "Datastructure/树/树——树的概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datastructure/树/树——二叉树的性质和遍历.md",
+                "file": "Datastructure/树/树——树的概述.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datastructure/树/树——二叉树的性质和遍历.md",
+                "file": "Datastructure/树/树——树的概述.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datastructure/树/树——二叉树的性质和遍历.md"
+                "file": "Datastructure/树/树——树的概述.md"
               }
             }
           }
@@ -158,21 +158,21 @@
   },
   "active": "ab52b7eb7d980fe2",
   "lastOpenFiles": [
+    "Datastructure/树/树——线索二叉树.md",
+    "Datastructure/树/并查集和哈夫曼树.pdf",
+    "Datastructure/树/树——二叉树的性质和遍历.md",
+    "Datastructure/排序与查找/插入排序.pdf",
+    "Datastructure/排序与查找/经典查找.pdf",
     "Datastructure/树/树——二叉搜索树与二叉平衡树.md",
     "Datastructure/树/AVL插入操作图.drawio",
     "Datastructure/树/树——树的概述.md",
-    "Datastructure/树/树——线索二叉树.md",
-    "Datastructure/树/并查集和哈夫曼树.pdf",
-    "Datastructure/排序与查找/经典查找.pdf",
     "Datastructure/图/关键路径讲义.pdf",
     "Datastructure/图/最短路径Dijkstra.pdf",
     "Datastructure/排序与查找/归并排序、统计排序.pdf",
     "Datastructure/排序与查找/交换排序.pdf",
-    "Datastructure/排序与查找/插入排序.pdf",
     "Datastructure/排序与查找/排序的基本概念.pdf",
     "Datastructure/图/拓扑排序.pdf",
     "未命名.md",
-    "Datastructure/树/树——二叉树的性质和遍历.md",
     "Generated/二叉搜索树和平衡树.md",
     "Datastructure/栈与队列/栈与队列——栈.md",
     "Generated/images/二叉搜索树和平衡树_1_85.png",
