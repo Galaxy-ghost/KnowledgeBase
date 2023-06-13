@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Datastructure/图/最短路径Dijkstra.pdf"
+                "file": "Datastructure/B树/15. B树的概念和常用操作.pdf"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datastructure/图/最短路径Dijkstra.pdf",
+                "file": "Datastructure/B树/15. B树的概念和常用操作.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datastructure/图/最短路径Dijkstra.pdf",
+                "file": "Datastructure/B树/15. B树的概念和常用操作.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datastructure/图/最短路径Dijkstra.pdf"
+                "file": "Datastructure/B树/15. B树的概念和常用操作.pdf"
               }
             }
           },
@@ -163,8 +163,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8cd157fe724e84f2",
+  "active": "a55bf26ba4f198f5",
   "lastOpenFiles": [
+    "Datastructure/红黑树/红黑树的删除.pdf",
+    "Datastructure/B树/15. B树的概念和常用操作.pdf",
+    "Datastructure/B树",
+    "Datastructure/红黑树/红黑树概述及插入.pdf",
+    "Datastructure/排序与查找/归并排序、统计排序.pdf",
+    "Datastructure/图/最短路径Dijkstra.pdf",
+    "Datastructure/红黑树",
     "Datastructure/图/最小生成树.pdf",
     "Datastructure/图/图的概念及重要术语.pdf",
     "Datastructure/图/拓扑排序.pdf",
@@ -172,15 +179,8 @@
     "Datastructure/树/树——线索二叉树.md",
     "Datastructure/树/树——二叉搜索树与二叉平衡树.md",
     "Datastructure/数据结构概述和线性表/数据结构概述和线性表.md",
-    "Datastructure/排序与查找/交换排序.pdf",
-    "Datastructure/树/AVL插入操作图.drawio",
-    "Datastructure/排序与查找/经典查找.pdf",
-    "Datastructure/排序与查找/排序的基本概念.pdf",
-    "Datastructure/排序与查找/归并排序、统计排序.pdf",
     "Datastructure/树/树——树的概述.md",
-    "Datastructure/树/并查集和哈夫曼树.pdf",
     "Datastructure/树/树——二叉树的性质和遍历.md",
-    "Datastructure/排序与查找/插入排序.pdf",
     "未命名.md",
     "Generated/二叉搜索树和平衡树.md",
     "Datastructure/栈与队列/栈与队列——栈.md",
