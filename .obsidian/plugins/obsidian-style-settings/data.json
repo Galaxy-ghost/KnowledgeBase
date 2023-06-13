@@ -46,5 +46,9 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
   "anuppuccin-theme-settings@@anp-kanban-hide-card-menus": false,
-  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-blue"
+  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-blue",
+  "anuppuccin-theme-settings@@anp-kanban-lanes": true,
+  "anuppuccin-theme-settings@@anp-table-width": true,
+  "anuppuccin-theme-settings@@anp-table-auto": true,
+  "anuppuccin-theme-settings@@anp-th-highlight": true
 }
