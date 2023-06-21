@@ -11,15 +11,22 @@
             "id": "8cd157fe724e84f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Datastructure/栈与队列/栈与队列——队列.md",
-                "mode": "source",
-                "source": false
+                "file": "Datastructure/B树/15. B树的概念和常用操作.pdf"
               }
             }
+          },
+          {
+            "id": "32bf201bfd37727c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datastructure/栈与队列/栈与队列——队列.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datastructure/栈与队列/栈与队列——队列.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Datastructure/栈与队列/栈与队列——队列.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,13 +168,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8cd157fe724e84f2",
+  "active": "32bf201bfd37727c",
   "lastOpenFiles": [
+    "未命名.md",
+    "Datastructure/B树/15. B树的概念和常用操作.pdf",
+    "Datastructure/树/并查集和哈夫曼树.pdf",
+    "Datastructure/栈与队列/栈与队列——队列.md",
     "Datastructure/栈与队列/栈与队列——栈.md",
     "Datastructure/树/树——二叉搜索树与二叉平衡树.md",
     "Datastructure/树/树——线索二叉树.md",
     "Datastructure/数据结构概述和线性表/数据结构概述和线性表.md",
-    "Datastructure/B树/15. B树的概念和常用操作.pdf",
     "Datastructure/红黑树/红黑树的删除.pdf",
     "Datastructure/B树",
     "Datastructure/红黑树/红黑树概述及插入.pdf",
@@ -180,15 +186,12 @@
     "Datastructure/红黑树",
     "Datastructure/图/最小生成树.pdf",
     "Datastructure/图/图的概念及重要术语.pdf",
-    "Datastructure/图/拓扑排序.pdf",
     "Datastructure/树/树——树的概述.md",
     "Datastructure/树/树——二叉树的性质和遍历.md",
-    "未命名.md",
     "Generated/二叉搜索树和平衡树.md",
     "Generated/images/二叉搜索树和平衡树_1_85.png",
     "Generated/images/二叉搜索树和平衡树_1_97.png",
     "Datastructure/栈与队列/Untitled Diagram.svg",
-    "Datastructure/栈与队列/栈与队列——队列.md",
     "未命名.canvas",
     "Datastructure/数据结构概述和线性表/链式存储表.md",
     "算法.md",
