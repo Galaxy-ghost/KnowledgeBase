@@ -8,25 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8cd157fe724e84f2",
+            "id": "32bf201bfd37727c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Datastructure/B树/15. B树的概念和常用操作.pdf"
+                "file": "Datastructure/树/并查集和哈夫曼树.pdf"
               }
             }
-          },
-          {
-            "id": "32bf201bfd37727c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Datastructure/树/并查集和哈夫曼树.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Datastructure/树/并查集和哈夫曼树.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Datastructure/树/并查集和哈夫曼树.pdf"
+              }
             }
           },
           {
@@ -170,9 +165,10 @@
   },
   "active": "32bf201bfd37727c",
   "lastOpenFiles": [
+    "Datastructure/数据结构概述和线性表/链式存储表.md",
+    "Datastructure/树/并查集和哈夫曼树.pdf",
     "未命名.md",
     "Datastructure/B树/15. B树的概念和常用操作.pdf",
-    "Datastructure/树/并查集和哈夫曼树.pdf",
     "Datastructure/栈与队列/栈与队列——队列.md",
     "Datastructure/栈与队列/栈与队列——栈.md",
     "Datastructure/树/树——二叉搜索树与二叉平衡树.md",
@@ -193,7 +189,6 @@
     "Generated/images/二叉搜索树和平衡树_1_97.png",
     "Datastructure/栈与队列/Untitled Diagram.svg",
     "未命名.canvas",
-    "Datastructure/数据结构概述和线性表/链式存储表.md",
     "算法.md",
     "2023-03-27.md"
   ]
