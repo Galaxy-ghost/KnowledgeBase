@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Datastructure/树/并查集和哈夫曼树.pdf"
+                "file": "Datastructure/红黑树/红黑树概述及插入.pdf"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datastructure/树/并查集和哈夫曼树.pdf",
+                "file": "Datastructure/红黑树/红黑树概述及插入.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datastructure/树/并查集和哈夫曼树.pdf",
+                "file": "Datastructure/红黑树/红黑树概述及插入.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datastructure/树/并查集和哈夫曼树.pdf"
+                "file": "Datastructure/红黑树/红黑树概述及插入.pdf"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "32bf201bfd37727c",
   "lastOpenFiles": [
-    "Datastructure/数据结构概述和线性表/链式存储表.md",
+    "Datastructure/红黑树/红黑树的删除.pdf",
+    "Datastructure/树/AVL插入操作图.drawio",
     "Datastructure/树/并查集和哈夫曼树.pdf",
+    "Datastructure/数据结构概述和线性表/链式存储表.md",
     "未命名.md",
     "Datastructure/B树/15. B树的概念和常用操作.pdf",
     "Datastructure/栈与队列/栈与队列——队列.md",
@@ -174,7 +176,6 @@
     "Datastructure/树/树——二叉搜索树与二叉平衡树.md",
     "Datastructure/树/树——线索二叉树.md",
     "Datastructure/数据结构概述和线性表/数据结构概述和线性表.md",
-    "Datastructure/红黑树/红黑树的删除.pdf",
     "Datastructure/B树",
     "Datastructure/红黑树/红黑树概述及插入.pdf",
     "Datastructure/排序与查找/归并排序、统计排序.pdf",
